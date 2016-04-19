@@ -9,6 +9,8 @@
  Примерный план разработки доступен [здесь](https://docs.google.com/spreadsheets/d/1PUa3jG_hcjDB67qcwux9dS2mhaqHwEqLxPVpLq7USQA/edit#gid=0 "План разработки").
  
  
+ 
+ 
  ## Прогресс
  
  На данный момент реализованы практически все основные пункты плана:
