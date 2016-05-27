@@ -4,8 +4,7 @@
  Проект представляет из себя 3D игру, написанную при помощи технологии Unreal Engine 4 и c использованием blueprints.
 
 ## Игра
- Игру можно скачать  
- [здесь](https://darkaz.itch.io/find-the-key-escape-the-green-room "Игра")
+ Игру можно скачать [здесь](https://darkaz.itch.io/find-the-key-escape-the-green-room "Игра")
  
 ## План разработки, основной концепт
  Базовый концепт игры можно увидеть [здесь](https://docs.google.com/document/d/1Cn8jqPerycDVBLryEOa0l9xPs-KC1C5oWR6tZ3j8Ukg/edit#heading=h.4u6c5x1l1mop "Описание игры").
